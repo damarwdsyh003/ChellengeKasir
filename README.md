@@ -1,0 +1,17 @@
+# ChellengeKasir
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/1.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/2.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/3.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/4.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/5.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/6.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/7.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/8.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/9.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/10.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/11.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/12.png)
+# Struk
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/Struk%201.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/Struk%202.png)
+![Alt Text](https://github.com/damarwdsyh003/ChellengeKasir/blob/master/Struk%203.png)
